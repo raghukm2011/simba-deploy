@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/simba-deploy/precache-manifest.c32af776fc3422e87333e9d37a3d6c1d.js"
+  "/simba-deploy/precache-manifest.8c0406cedd88e87e568508646cb12f19.js"
 );
 
 self.addEventListener('message', (event) => {
