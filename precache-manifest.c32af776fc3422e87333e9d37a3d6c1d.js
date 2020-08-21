@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5e1a6653a10277aeca54a7c1b6719e6",
+    "revision": "16aa113e5eeed8de596f7df18b7426e8",
     "url": "/simba-deploy/index.html"
   },
   {
-    "revision": "225b27d779422faf47f2",
+    "revision": "371126e3ad9cc0f36f9a",
     "url": "/simba-deploy/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simba-deploy/static/js/2.b4d68586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "225b27d779422faf47f2",
-    "url": "/simba-deploy/static/js/main.6fd9a502.chunk.js"
+    "revision": "371126e3ad9cc0f36f9a",
+    "url": "/simba-deploy/static/js/main.4cf31e3d.chunk.js"
   },
   {
     "revision": "21d78a6d9d088397645f",

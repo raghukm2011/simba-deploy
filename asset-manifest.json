@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simba-deploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/simba-deploy/static/js/main.6fd9a502.chunk.js",
-    "main.js.map": "/simba-deploy/static/js/main.6fd9a502.chunk.js.map",
+    "main.js": "/simba-deploy/static/js/main.4cf31e3d.chunk.js",
+    "main.js.map": "/simba-deploy/static/js/main.4cf31e3d.chunk.js.map",
     "runtime-main.js": "/simba-deploy/static/js/runtime-main.20175fca.js",
     "runtime-main.js.map": "/simba-deploy/static/js/runtime-main.20175fca.js.map",
     "static/js/2.b4d68586.chunk.js": "/simba-deploy/static/js/2.b4d68586.chunk.js",
     "static/js/2.b4d68586.chunk.js.map": "/simba-deploy/static/js/2.b4d68586.chunk.js.map",
     "index.html": "/simba-deploy/index.html",
-    "precache-manifest.30a8b45a74f376b8168ae25ce6faa428.js": "/simba-deploy/precache-manifest.30a8b45a74f376b8168ae25ce6faa428.js",
+    "precache-manifest.c32af776fc3422e87333e9d37a3d6c1d.js": "/simba-deploy/precache-manifest.c32af776fc3422e87333e9d37a3d6c1d.js",
     "service-worker.js": "/simba-deploy/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/simba-deploy/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b4d68586.chunk.js.LICENSE.txt": "/simba-deploy/static/js/2.b4d68586.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.20175fca.js",
     "static/js/2.b4d68586.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6fd9a502.chunk.js"
+    "static/js/main.4cf31e3d.chunk.js"
   ]
 }
